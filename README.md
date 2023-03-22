@@ -1,2 +1,3 @@
 # project-1
-Latihan 
+Latihan
+Ini latihan pakai github 
